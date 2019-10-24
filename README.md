@@ -23,6 +23,7 @@ Using natural language processing, models were constructed to see if the two sub
 
 # Data Dictionary
 - Data dictionary for the features used in the models:
+
 |Feature|Data type|Description|
 |-------|---------|-----------|
 |selftext|*str*|The content of the reddit post (the predictor variable)|
